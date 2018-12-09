@@ -13,7 +13,7 @@ A full-stack application that show cases my ability to setup CRUD functionailty 
 - npm start
 
 ## Technologies
-* Angular 4+
+* Angular 6
 * Node
 * Express
 * MonogoDB

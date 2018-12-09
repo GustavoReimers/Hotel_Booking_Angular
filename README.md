@@ -6,7 +6,6 @@ Click Here to Visit my Website: [https://rentalap.herokuapp.com/](https://rental
 
 A full-stack application that show cases my ability to setup CRUD functionailty and RESTful architecture.  
 
-![An image of the app](http://blaijonheads.com/images/works/work_3.jpg)
 
 ## Technologies
 * Angular 4+

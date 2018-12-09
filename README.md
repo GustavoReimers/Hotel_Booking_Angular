@@ -1,5 +1,6 @@
 ﻿# Hotel Booking Website(MEAN STACK)
 
+![Hotel Booking](https://user-images.githubusercontent.com/39370721/49700177-a89bea00-fbdb-11e8-923c-ccd5a0c2ec54.png)
 
 
 ## Project Description

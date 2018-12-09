@@ -13,4 +13,4 @@ A full-stack application that show cases my ability to setup CRUD functionailty 
 * Express
 * MonogoDB
 ## Author
-* https://github.com/Blaijon
+* https://github.com/dragonboy612

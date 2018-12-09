@@ -1,4 +1,4 @@
-﻿# (MEAN STACK) Full Stack Booking Website
+﻿# Hotel Booking Website(MEAN STACK)
 
 
 

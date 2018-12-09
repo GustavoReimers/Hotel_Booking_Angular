@@ -6,6 +6,7 @@
 ## Project Description
 
 [DEMO VIDEO](https://www.dropbox.com/s/m8vpty09040gwrw/Untitled.mov?dl=0)
+[DEMO VIDEO](https://imgur.com/a/BEFn55x)
 
 A full-stack application that show cases my ability to setup CRUD functionailty and RESTful architecture.  
 ## Run

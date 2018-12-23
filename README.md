@@ -5,7 +5,8 @@
 
 ## Project Description
 
-[DEMO VIDEO](https://www.dropbox.com/s/m8vpty09040gwrw/Untitled.mov?dl=0)
+[DEMO VIDEO](https://www.dropbox.com/s/93i7y7cly0cdcw2/angular.mov?dl=0)
+
 
 A full-stack application that show cases my ability to setup CRUD functionailty and RESTful architecture.  
 ## Run

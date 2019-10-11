@@ -20,6 +20,6 @@ A full-stack application that show cases my ability to setup CRUD functionailty 
 * Express
 * MonogoDB
 ## Author
-* https://github.com/dragonboy612
+* https://github.com/SeniorDev34
 
 

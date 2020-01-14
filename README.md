@@ -19,7 +19,5 @@ A full-stack application that show cases my ability to setup CRUD functionailty 
 * Node
 * Express
 * MonogoDB
-## Author
-* https://github.com/SeniorDev34
 
 
